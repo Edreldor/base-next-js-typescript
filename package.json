@@ -17,6 +17,9 @@
     "next": "13.2.4",
     "react": "18.2.0",
     "react-dom": "18.2.0",
+    "sass": "^1.60.0",
+    "stylelint": "^15.3.0",
+    "stylelint-webpack-plugin": "^4.1.0",
     "typescript": "5.0.2"
   },
   "engines": {
@@ -29,6 +32,8 @@
     "eslint-plugin-prettier": "^4.2.1",
     "husky": "^8.0.3",
     "lint-staged": "^13.2.0",
-    "prettier": "^2.8.7"
+    "prettier": "^2.8.7",
+    "stylelint-config-prettier": "^9.0.5",
+    "stylelint-prettier": "^3.0.0"
   }
 }
